@@ -11,7 +11,7 @@ import WebKit
 import SwiftUI
 
 struct WebView : UIViewRepresentable {
-    
+    //Estrutura para exibir detalhes no browser.
     let urlString: String?
  
     func makeUIView(context: Context) -> WKWebView {
