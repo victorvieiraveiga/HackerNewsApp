@@ -1,6 +1,7 @@
 # HackerNewsApp
 
 ##Consumindo Api da Algolia HackerNews (https://hn.algolia.com/) com pagina de detalhe usando SwiftUI.
+##Pagina de detalhe usando WebView para abrir url no Browser.
 
 
 <table>
